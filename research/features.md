@@ -1,0 +1,39 @@
+# Features
+
+- Fault Tolerant Local State
+- Joins
+- Windowed Aggregations
+- Direct Support for OpenMetadata
+  - Messaging Features
+    - Topics
+    - Sample Data
+  - DB Features
+    - Metadata
+    - Data Quality
+    - Data Profiling
+    - Lineage
+    - DBT
+    - Tags
+    - Ownership
+  - Pipeline Features
+    - Status
+    - Pipelines
+- Schema Registry
+  - Avro
+  - JSON
+  - Protobuf
+- Schema Evolution
+- Tracing Support
+  - OpenTelemetry
+  - Zipkin
+  - Jaeger
+  - Datadog
+  - Honeycomb
+  - Sentry
+  - Stackdriver
+  - AWS X-Ray
+  - New Relic
+- Logging Support
+- Metrics Support
+- Health Checks
+- Vault / External Secrets support
